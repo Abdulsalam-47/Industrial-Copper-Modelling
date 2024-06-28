@@ -13,31 +13,56 @@ Pickle
 Streamlit
 # 📚 Packages and Libraries
 !pip install numpy
+
 !pip install pandas
+
 !pip install scikit-learn
+
 !pip install xgboost
+
 !pip install matplotlib
+
 !pip install seaborn
+
 !pip install streamlit
 
 # 📘 Overview
 Data Preprocessing
+
 Loaded the copper CSV into a DataFrame.
+
 Cleaned and filled missing values, addressed outliers, and adjusted data types.
+
 Analyzed data distribution and treated skewness
+
 Feature Engineering
+
 Assessed feature correlation to identify potential multicollinearity
+
 Modeling
+
 Built a regression model for selling price prediction.
+
 Built a classification model for status prediction.
+
 Encoded categorical features and optimized hyperparameters.
+
 Pickled the trained models for deployment.
+
 Streamlit Application
+
 Developed a user interface for interacting with the models.
+
 Predicted selling price and status based on user input.
+
 # 👨‍🏫 Reference
+
 Python Documentation
+
 pandas Documentation
+
 scikit-learn Documentation
+
 numpy Documentation
+
 Streamlit Documentation
